@@ -1,0 +1,23 @@
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 30vh;
+    -webkit-animation: h1 2s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+    animation: h1 2s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}
+
+h2 {
+    font-size: 2rem;
+    -webkit-animation: h2 2s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+    animation: h2 2s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}
+h3{
+    font-size: 1.5rem;
+    -webkit-animation: h2 2s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+    animation: h2 2s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}
+legend{
+    font-size: 1rem;
+    font-style: italic;
+
+}
